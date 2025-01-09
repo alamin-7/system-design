@@ -1,0 +1,5 @@
+# Traversing a 2D array with best way
+
+Row by row traversing is faster than column by colum. Because it maxymize sequential accesss which is
+cache friendly. for this array traversal is faster than linkedlist traversal.
+
